@@ -1,2 +1,2 @@
 # random-abbreviation-generator
-A random abbreviation generator for a letter.
+A random abbreviation generator for a word.
