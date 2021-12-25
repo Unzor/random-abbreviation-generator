@@ -5,4 +5,5 @@ A random abbreviation generator for a word.
 ```javascript
 var abbrev = await "rag".generateAbbreviation();
 console.log(abbrev);
+// Return All Golden, Result Aid Grandmother, other possibilities...
 ```
